@@ -35,7 +35,9 @@
         "x": 770,
         "y": 280,
         "wires": [
-            []
+            [
+                "6806f942f2452c3c"
+            ]
         ]
     },
     {
@@ -53,5 +55,22 @@
         "x": 720,
         "y": 380,
         "wires": []
+    },
+    {
+        "id": "6806f942f2452c3c",
+        "type": "function",
+        "z": "d3310dac90d08ad6",
+        "name": "function 1",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1020,
+        "y": 240,
+        "wires": [
+            []
+        ]
     }
 ]
