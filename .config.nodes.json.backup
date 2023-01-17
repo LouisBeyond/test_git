@@ -431,7 +431,7 @@
                 "local": true,
                 "user": false,
                 "module": "@uipath/node-red-contrib-uipath-orchestrator",
-                "file": "C:\\Users\\lcas\\.node-red\\node_modules\\@uipath\\node-red-contrib-uipath-orchestrator\\nodes\\connection.js"
+                "file": "\\Users\\lcas\\.node-red\\node_modules\\@uipath\\node-red-contrib-uipath-orchestrator\\nodes\\connection.js"
             },
             "orchestrator request": {
                 "name": "orchestrator request",
@@ -442,7 +442,7 @@
                 "local": true,
                 "user": false,
                 "module": "@uipath/node-red-contrib-uipath-orchestrator",
-                "file": "C:\\Users\\lcas\\.node-red\\node_modules\\@uipath\\node-red-contrib-uipath-orchestrator\\nodes\\request.js"
+                "file": "\\Users\\lcas\\.node-red\\node_modules\\@uipath\\node-red-contrib-uipath-orchestrator\\nodes\\request.js"
             },
             "orchestrator start job": {
                 "name": "orchestrator start job",
@@ -453,7 +453,7 @@
                 "local": true,
                 "user": false,
                 "module": "@uipath/node-red-contrib-uipath-orchestrator",
-                "file": "C:\\Users\\lcas\\.node-red\\node_modules\\@uipath\\node-red-contrib-uipath-orchestrator\\nodes\\startJob.js"
+                "file": "\\Users\\lcas\\.node-red\\node_modules\\@uipath\\node-red-contrib-uipath-orchestrator\\nodes\\startJob.js"
             }
         }
     }

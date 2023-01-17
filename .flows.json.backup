@@ -18,6 +18,22 @@
         "x": 550,
         "y": 280,
         "wires": [
+            [
+                "40f415661b522e44"
+            ]
+        ]
+    },
+    {
+        "id": "40f415661b522e44",
+        "type": "link call",
+        "z": "d3310dac90d08ad6",
+        "name": "",
+        "links": [],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 770,
+        "y": 280,
+        "wires": [
             []
         ]
     }
