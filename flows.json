@@ -36,7 +36,7 @@
         "y": 280,
         "wires": [
             [
-                "233382d053395fbd"
+                "6806f942f2452c3c"
             ]
         ]
     },
@@ -57,24 +57,18 @@
         "wires": []
     },
     {
-        "id": "233382d053395fbd",
-        "type": "trigger",
+        "id": "6806f942f2452c3c",
+        "type": "function",
         "z": "d3310dac90d08ad6",
-        "name": "",
-        "op1": "1",
-        "op2": "0",
-        "op1type": "val",
-        "op2type": "val",
-        "duration": "250",
-        "extend": "false",
-        "overrideDelay": "false",
-        "units": "ms",
-        "reset": "",
-        "bytopic": "all",
-        "topic": "topic",
+        "name": "function 1",
+        "func": "\nreturn msg;",
         "outputs": 1,
-        "x": 920,
-        "y": 200,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1020,
+        "y": 240,
         "wires": [
             []
         ]
